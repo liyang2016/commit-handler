@@ -1,0 +1,51 @@
+%%%%%%%%
+CommitHash>>d141bc2fa36dea5b2c5d3e620be3f46c2335b3c5<<CommitHash
+Name>>liyang liyang<<Name
+Email>>liyang11@asiainfo.com liyang11@asiainfo.com<<Email
+Date>>1472031060 1472031060<<Date
+CommitNote>>Changes-to-be-committed<<CommitNote
+diff --git a/main/Main.java b/main/Main.java
+index 90dff57..78d6a51 100644
+--- a/main/Main.java
++++ b/main/Main.java
+@@ -2,4 +2,7 @@ public class Main{
+      public void static main(String[] args){
+                System.out.println("Hello");
+      }
++        
++        public void getId(){
++        }
+ }
+%%%%%%%%
+CommitHash>>2ccf8097237261af18c8c967c91ea64148f0b22c<<CommitHash
+Name>>liyang liyang<<Name
+Email>>liyang11@asiainfo.com liyang11@asiainfo.com<<Email
+Date>>1472031004 1472031004<<Date
+CommitNote>>delete-README<<CommitNote
+diff --git a/README b/README
+deleted file mode 100644
+index fe7760e..0000000
+--- a/README
++++ /dev/null
+@@ -1,2 +0,0 @@
+-develop commit
+-project
+\ No newline at end of file
+%%%%%%%%
+CommitHash>>800df6c2c715fd1e889de8f3c7fc84bc5c76e038<<CommitHash
+Name>>liyang liyang<<Name
+Email>>liyang11@asiainfo.com liyang11@asiainfo.com<<Email
+Date>>1472030973 1472030973<<Date
+CommitNote>>modified-README<<CommitNote
+diff --git a/README b/README
+index 7bd2750..fe7760e 100644
+--- a/README
++++ b/README
+@@ -1,3 +1,2 @@
+ develop commit
+-project
+-it is good
+\ No newline at end of file
++project
+\ No newline at end of file
+%%%%%%%%
